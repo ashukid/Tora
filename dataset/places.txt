@@ -1,0 +1,20 @@
+Hey
+Hello master, how are you?
+I am fine.
+Thats great!! How may I help you today??
+What are the sightseeing places in jaipur ?
+Amer Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, Jaigarh Fort, Sheesh Mahal, City Palace, Jal Mahal are the major places of interest and there are many more.
+How far is Hawa Mahal from Jaipur Railway Station?
+6.1 km
+How far is Sheesh Mahal from Jaipur Railway Station?
+14 km
+How far is Jantar Mantar from Jaipur Railway Station?
+5.2 km
+Which of these is nearest to the railway station?
+Jantar Mantar is the nearest to the railway station. It is at a distance of 5.2 km from the railway station.
+Tell me about Jantar Mantar
+The Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh II in 1734. It features the world's largest stone sundial, and is a UNESCO World Heritage site. 
+What are the visiting hours for Jantar Mantar
+The visiting hours for Jantar Mantar are from 9:00 A.M to 4:30 P.M everyday
+Which is the closest historical place to the railway station?
+Jantar Mantar is the nearest to the railway station. It is at a distance of 5.2 km from the railway station.
